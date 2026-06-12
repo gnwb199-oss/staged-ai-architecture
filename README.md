@@ -18,17 +18,23 @@ The current focus is earlier than that:
 
 how long-term AI systems should be structured before any active runtime or autonomous behavior is introduced.
 
+## Start here
+
+* [Why Capability Is Not Architecture](docs/why-capability-is-not-architecture.md)
+
+More public research notes will be added gradually.
+
 ## What this project is about
 
 This research explores practical questions around:
 
-- staged AI system development;
-- safety-first architecture boundaries;
-- controlled progression before active runtime;
-- verification before capability expansion;
-- separation between design, review, testing, and activation;
-- prevention of premature autonomous behavior;
-- preparation of limited local-first prototype directions.
+* staged AI system development;
+* safety-first architecture boundaries;
+* controlled progression before active runtime;
+* verification before capability expansion;
+* separation between design, review, testing, and activation;
+* prevention of premature autonomous behavior;
+* preparation of limited local-first prototype directions.
 
 The goal is to build a careful architectural foundation before moving toward any testable prototype.
 
@@ -56,32 +62,32 @@ what boundaries should exist before a long-term AI system is allowed to become a
 
 The project is interested in structure first:
 
-- what is allowed at the current stage;
-- what must remain forbidden;
-- what needs review before the next stage;
-- how to avoid unsafe jumps from research to runtime;
-- how to keep development controlled and verifiable;
-- how to prepare local-first prototype work without exposing private research materials too early.
+* what is allowed at the current stage;
+* what must remain forbidden;
+* what needs review before the next stage;
+* how to avoid unsafe jumps from research to runtime;
+* how to keep development controlled and verifiable;
+* how to prepare local-first prototype work without exposing private research materials too early.
 
 ## Public scope
 
 This public repository may include:
 
-- non-confidential research notes;
-- high-level architecture principles;
-- stage definitions;
-- safety-first development notes;
-- limited prototype planning notes;
-- progress updates.
+* non-confidential research notes;
+* high-level architecture principles;
+* stage definitions;
+* safety-first development notes;
+* limited prototype planning notes;
+* progress updates.
 
 This repository will not include:
 
-- private implementation details;
-- internal roadmap materials;
-- confidential technical architecture;
-- autonomous runtime components;
-- deployment paths;
-- private source code for internal experiments.
+* private implementation details;
+* internal roadmap materials;
+* confidential technical architecture;
+* autonomous runtime components;
+* deployment paths;
+* private source code for internal experiments.
 
 ## Current goal
 
@@ -97,15 +103,15 @@ The main goal is to build a local research workstation with powerful hardware, s
 
 Support will help with:
 
-- focused research time;
-- building a powerful local research workstation;
-- local AI architecture experiments;
-- faster hypothesis testing;
-- documentation;
-- technical review;
-- safe public materials;
-- limited prototype planning;
-- regular progress updates.
+* focused research time;
+* building a powerful local research workstation;
+* local AI architecture experiments;
+* faster hypothesis testing;
+* documentation;
+* technical review;
+* safe public materials;
+* limited prototype planning;
+* regular progress updates.
 
 The work will remain staged, careful, and safety-first.
 
@@ -117,6 +123,7 @@ Support page:
 
 For research-level discussion, technical feedback, early support, or incubation-related contact:
 
-Email: occamgnw@yandex.kz
+Email: [occamgnw@yandex.kz](mailto:occamgnw@yandex.kz)
 
 Please do not send confidential materials or private technical details in public issues or discussions.
+
